@@ -1,3 +1,8 @@
 .odd {
     background-color:#ed8e87;
 }
+
+.small {
+    font-family:'Verdana','DejavuSans','sans-serif';
+    font-size: 18px;
+}
